@@ -10,8 +10,5 @@ Compatible with all mobile devices and with a beautiful and pleasant user interf
 
 
 
-![image](https://github.com/tanmai163/Travel-Website/assets/115999174/87b6b614-bf21-4559-95d3-e72611c08504)
-
-<img width="1470" alt="Website Preview" src="https://github.com/tanmai163/Travel-Website/assets/115999174/03add0f3-a508-43ee-b559-dd8b2c0f9d0c">
 
 
